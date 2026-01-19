@@ -1,0 +1,4 @@
+Test ID,Title,Executed By,Date,Result,Notes
+TC-S-001,Home page loads,CyberDataCataProjects,2026-01-19,Pass,
+TC-S-002,Text Box: submit form,CyberDataCataProjects,2026-01-19,Pass,Used sample data row 1
+TC-F-001,Text Box: validate required email,CyberDataCataProjects,2026-01-19,Fail,Validation not shown for invalid email
